@@ -1,0 +1,16 @@
+{
+  "opening-tag": "{",
+  "closing-tag": "}",
+  "body": "<html>\n  <head>\n    <meta charset='utf-8'>\n    <meta name='viewport' content='width=device-width, initial-scale=1'>\n      <title>page</title>\n  </head>\n  <body style='padding:70px;'>\n    <main >\n      {}\n      <footer style='margin:100px auto'> <hr>\n        <p>Wireframe-to-UI &copy;</p>\n      </footer>\n    </main>\n  </body>\n</html>\n",
+
+  "Heading": "<h1 style='font-family:verdana;font-size:200%'>Heading</h1>\n",
+  "Button": "<button type='button' style='padding: 10px 30px; margin:10px 0 ; border: 3px solid #000; border-radius: 4px; font-size: 16px;'>btn</button>\n",
+  "CheckBox": "<div style'display:block;'><input type='checkbox' >CheckBox</div>\n",
+  "Image": "<img src='assets/img.png' alt='some_text'style='width: 100%; max-width: 400px; height:auto; border-radius: 8px;'>\n",
+  "Label": "<label style='font-size: 16px;display: block; margin-bottom:10px border:1px solid #e69e19;border-radius:4px;padding:10px;'>label</label>\n",
+  "Link": "<a href='#' style='font-weight: bold;'>link</a>\n",
+  "Paragraph": "<p style='font-size: 16px; line-height: 1.5; width:300px'> Lorem ipsum dolor sit amet,\n consectetur adipiscing elit,\n sed do eiusmod tempor incididunt ut labore et dolore magnaaliqua.\n Ut enim ad minim veniam\n, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n </p>\n",
+  "RadioButton": "<div style'display:block;'><input type='radio'>RadioButton</div>\n",
+  "Select": "<select style='display:block;'><option value='opt1'>opt1</option><option value='opt2'>opt2</option><option value='opt3'>opt3</option><option value='opt4'>opt4</option></select>\n",
+  "TextBox": "<input type='text' style='font-size: 16px;padding: 10px;border-radius: 5px;border: 2px solid #000;display:block;'>\n"
+}
