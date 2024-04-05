@@ -20,4 +20,5 @@ https://github.com/Ala-Alsanea/YOLO_sketch_web_ui
 ```
 
 ## Demo
-[Demo](./assets/demo.mp4)
+<video controls src="https://github.com/Ala-Alsanea/wireframe-to-UI/blob/master/assets/demo.mp4" title="demo"></video>
+
