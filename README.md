@@ -1,7 +1,8 @@
 # Wireframe to User Interface Using Deep Learning Approach
 
+![banner](./assets/banner.png)
 
-this project demo for converting image of drawed wireframe to html code trained with YOLOv5 model.
+This project demo for converting image of drawed wireframe to html code trained with YOLOv5 model.
 
 ## Tools
 
@@ -14,11 +15,12 @@ this project demo for converting image of drawed wireframe to html code trained 
 ```
 https://github.com/Ala-Alsanea/sketch_web_ui_dataset
 ```
+![banner](./assets/dataset.png)
+
+
 ## Trained model notebook 
 ```
 https://github.com/Ala-Alsanea/YOLO_sketch_web_ui
 ```
 
 ## Demo
-<video controls src="https://github.com/Ala-Alsanea/wireframe-to-UI/blob/master/assets/demo.mp4" title="demo"></video>
-
